@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Speers22
-- 👀 I’m interested in ... React JS, HTML 5, JavaScript, PHP, MySQL, and Video Games
-- 🌱 I’m currently learning ... React JS, PHP, and MySQL
+- 👀 I’m interested in ... HTML 5 and CSS
+- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
